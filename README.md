@@ -9,4 +9,4 @@ You have to modify the components, so that:
 * it is passed to `TabSelector`,
 * the method allowing to change `activeId` is in the right place
 
-lien netlify du site : https://elated-bartik-e85620.netlify.com
+lien netlify de l'app : https://elated-bartik-e85620.netlify.com
